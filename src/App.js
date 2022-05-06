@@ -1,11 +1,9 @@
-import React,{useState} from 'react';
-import { DragDropContext,Droppable,Draggable  } from 'react-beautiful-dnd';
+import React from 'react';
 import './App.css';
-import { Home } from "./components/pages/Home";
 
 function App() {
   return (
-    
+    <h1>Good</h1>
   )
 }
 
